@@ -1,0 +1,8 @@
+C:\Users\slipc\source\repos\4pr\4pr\obj\Debug\4pr.csproj.AssemblyReference.cache
+C:\Users\slipc\source\repos\4pr\4pr\obj\Debug\4pr.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\source\repos\4pr\4pr\obj\Debug\4pr.csproj.CoreCompileInputs.cache
+C:\Users\slipc\source\repos\4pr\4pr\bin\Debug\4pr.exe.config
+C:\Users\slipc\source\repos\4pr\4pr\bin\Debug\4pr.exe
+C:\Users\slipc\source\repos\4pr\4pr\bin\Debug\4pr.pdb
+C:\Users\slipc\source\repos\4pr\4pr\obj\Debug\4pr.exe
+C:\Users\slipc\source\repos\4pr\4pr\obj\Debug\4pr.pdb

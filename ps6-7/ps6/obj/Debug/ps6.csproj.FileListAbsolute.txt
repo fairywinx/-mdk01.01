@@ -1,0 +1,22 @@
+C:\Users\slipc\source\repos\ps6\ps6\bin\Debug\ps6.exe.config
+C:\Users\slipc\source\repos\ps6\ps6\bin\Debug\ps6.exe
+C:\Users\slipc\source\repos\ps6\ps6\bin\Debug\ps6.pdb
+C:\Users\slipc\source\repos\ps6\ps6\obj\Debug\ps6.csproj.AssemblyReference.cache
+C:\Users\slipc\source\repos\ps6\ps6\obj\Debug\ps6.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\source\repos\ps6\ps6\obj\Debug\ps6.csproj.CoreCompileInputs.cache
+C:\Users\slipc\source\repos\ps6\ps6\obj\Debug\ps6.exe
+C:\Users\slipc\source\repos\ps6\ps6\obj\Debug\ps6.pdb
+C:\Users\slipc\source\repos\ps6\ps6\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\slipc\source\repos\ps6\ps6\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\slipc\source\repos\ps6\ps6\obj\Debug\ps6.csproj.CopyComplete
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\bin\Debug\ps6.exe.config
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\bin\Debug\ps6.exe
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\bin\Debug\ps6.pdb
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\obj\Debug\ps6.csproj.AssemblyReference.cache
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\obj\Debug\ps6.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\obj\Debug\ps6.csproj.CoreCompileInputs.cache
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\obj\Debug\ps6.csproj.CopyComplete
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\obj\Debug\ps6.exe
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\ps6\ps6\obj\Debug\ps6.pdb

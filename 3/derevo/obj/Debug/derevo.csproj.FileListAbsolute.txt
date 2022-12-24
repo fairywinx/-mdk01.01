@@ -1,0 +1,8 @@
+C:\Users\slipc\source\repos\derevo\derevo\bin\Debug\derevo.exe.config
+C:\Users\slipc\source\repos\derevo\derevo\bin\Debug\derevo.exe
+C:\Users\slipc\source\repos\derevo\derevo\bin\Debug\derevo.pdb
+C:\Users\slipc\source\repos\derevo\derevo\obj\Debug\derevo.csproj.AssemblyReference.cache
+C:\Users\slipc\source\repos\derevo\derevo\obj\Debug\derevo.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\source\repos\derevo\derevo\obj\Debug\derevo.csproj.CoreCompileInputs.cache
+C:\Users\slipc\source\repos\derevo\derevo\obj\Debug\derevo.exe
+C:\Users\slipc\source\repos\derevo\derevo\obj\Debug\derevo.pdb

@@ -1,0 +1,16 @@
+C:\Users\slipc\source\repos\rekursia\rekursia\bin\Debug\rekursia.exe.config
+C:\Users\slipc\source\repos\rekursia\rekursia\bin\Debug\rekursia.exe
+C:\Users\slipc\source\repos\rekursia\rekursia\bin\Debug\rekursia.pdb
+C:\Users\slipc\source\repos\rekursia\rekursia\obj\Debug\rekursia.csproj.AssemblyReference.cache
+C:\Users\slipc\source\repos\rekursia\rekursia\obj\Debug\rekursia.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\source\repos\rekursia\rekursia\obj\Debug\rekursia.csproj.CoreCompileInputs.cache
+C:\Users\slipc\source\repos\rekursia\rekursia\obj\Debug\rekursia.exe
+C:\Users\slipc\source\repos\rekursia\rekursia\obj\Debug\rekursia.pdb
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\bin\Debug\rekursia.exe.config
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\bin\Debug\rekursia.exe
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\bin\Debug\rekursia.pdb
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\obj\Debug\rekursia.csproj.AssemblyReference.cache
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\obj\Debug\rekursia.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\obj\Debug\rekursia.csproj.CoreCompileInputs.cache
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\obj\Debug\rekursia.exe
+C:\Users\slipc\Desktop\шаражка окэи\4 курс\разработка пм\rekursia\rekursia\obj\Debug\rekursia.pdb

@@ -1,0 +1,8 @@
+C:\Users\slipc\source\repos\5pr\5pr\obj\Debug\5pr.csproj.AssemblyReference.cache
+C:\Users\slipc\source\repos\5pr\5pr\obj\Debug\5pr.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\source\repos\5pr\5pr\obj\Debug\5pr.csproj.CoreCompileInputs.cache
+C:\Users\slipc\source\repos\5pr\5pr\bin\Debug\5pr.exe.config
+C:\Users\slipc\source\repos\5pr\5pr\bin\Debug\5pr.exe
+C:\Users\slipc\source\repos\5pr\5pr\bin\Debug\5pr.pdb
+C:\Users\slipc\source\repos\5pr\5pr\obj\Debug\5pr.exe
+C:\Users\slipc\source\repos\5pr\5pr\obj\Debug\5pr.pdb

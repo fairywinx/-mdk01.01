@@ -1,0 +1,16 @@
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.AssemblyReference.cache
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.SuggestedBindingRedirects.cache
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.g.cs
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\App.g.cs
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.cache
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11_MarkupCompile.lref
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe.config
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.exe
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\bin\Debug\WpfApp11.pdb
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\MainWindow.baml
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.g.resources
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.Properties.Resources.resources
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.GenerateResource.cache
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.csproj.CoreCompileInputs.cache
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.exe
+C:\Users\slipc\source\repos\WpfApp11\WpfApp11\obj\Debug\WpfApp11.pdb

@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\slipc\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\slipc\\.nuget\\packages",
+      "D:\\visual studio\\Новая папка\\NuGetPackages"
+    ]
+  }
+}
